@@ -1,0 +1,4 @@
+interface gi 0/1
+ip add 10.139.2.2 255.255.255.0
+switch port mode trunk
+no shut
